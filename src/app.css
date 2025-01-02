@@ -10,6 +10,11 @@ body {
 	@apply h-full;
 }
 
+.app-bar,
+main {
+	@apply text-[#f1f1f1];
+}
+
 @font-face {
 	font-family: 'Inter';
 	src: url('/fonts/Inter-VariableFont_slnt,wght.ttf');
