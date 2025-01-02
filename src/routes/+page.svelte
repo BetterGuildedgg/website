@@ -18,10 +18,12 @@
 					<span class="text-white"> GitHub </span>
 				</button>
 			</a>
-			<button class="rounded bg-primary-500 p-2 flex justify-center items-center w-32">
-				<img src={GuildedLogo} class="size-8" alt="Guilded" />
-				<span class="text-white">Guilded</span>
-			</button>
+			<a href="https://guilded.gg/BetterGuilded" target="_blank">
+				<button class="rounded bg-primary-500 p-2 flex justify-center items-center w-32">
+					<img src={GuildedLogo} class="size-8" alt="Guilded" />
+					<span class="text-white">Guilded</span>
+				</button>
+			</a>
 		</div>
 	</div>
 	<div class="mt-20">
